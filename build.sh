@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t outrigger/build:php70 .
+docker build -t scottalan/outrigger:master .
