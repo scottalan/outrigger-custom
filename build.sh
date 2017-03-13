@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t scottalan/outrigger:master .
+docker build -t scottalan/outrigger-custom:latest .
